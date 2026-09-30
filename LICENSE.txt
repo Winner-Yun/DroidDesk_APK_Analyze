@@ -1,0 +1,25 @@
+DROIDDESK END USER SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 DroidDesk. All rights reserved.
+
+1. GRANT OF LICENSE
+DroidDesk grants you a personal, non-exclusive, non-transferable license
+to install and use this software on your personal or corporate workstation
+for the purpose of Android application development, debugging, testing,
+and security review.
+
+2. LOCAL-FIRST & DATA PRIVACY
+DroidDesk operates locally on your workstation. It does not transmit
+your source code, compiled binaries, keystores, or device logs to any
+external or third-party servers.
+
+3. RESTRICTIONS
+You may not:
+- Reverse engineer, decompile, or disassemble DroidDesk, except to the extent
+  permitted by applicable law.
+- Distribute, lease, rent, or sublicense DroidDesk to unauthorized third parties.
+
+4. DISCLAIMER OF WARRANTIES
+DROIDDESK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS AND COPYRIGHT HOLDERS ARE NOT LIABLE FOR ANY CLAIMS,
+DAMAGES, OR OTHER LIABILITIES ARISING FROM THE USE OF THIS SOFTWARE.
