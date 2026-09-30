@@ -61,7 +61,7 @@ To allow DroidDesk to communicate with your device, you need to enable **USB Deb
 
 ## 4. Using Key Features
 
-> **Visual Tour Available:** See [README.md — Visual Tour & Demo Walkthrough](README.md#-visual-tour--demo-walkthrough-from-home-to-settings) for full screenshot breakdowns and guides for all 12 interface pages from Home to Settings.
+> **Visual Tour Available:** See [README.md - Visual Tour & Demo Walkthrough](README.md#-visual-tour--demo-walkthrough-from-home-to-settings) for full screenshot breakdowns and guides for all 12 interface pages from Home to Settings.
 
 ### APK Analysis
 - Drag any `.apk` file from File Explorer and drop it onto the DroidDesk window.
@@ -91,7 +91,7 @@ To allow DroidDesk to communicate with your device, you need to enable **USB Deb
 
 ### Secret & Credential Scanner
 - Click **Secret Scanner** to scan an APK or project folder for accidentally committed API keys, tokens, or private credentials.
-- Powered by the built-in, pre-packaged Gitleaks engine — runs completely offline with zero data leakage.
+- Powered by the built-in, pre-packaged Gitleaks engine - runs completely offline with zero data leakage.
 
 ---
 

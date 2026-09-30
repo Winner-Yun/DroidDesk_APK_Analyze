@@ -1,4 +1,4 @@
-# 📱 DroidDesk — Local Android Development & APK Analysis Companion
+# 📱 DroidDesk - Local Android Development & APK Analysis Companion
 
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](installer/DroidDesk-Setup-v1.0.0.exe)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-0078D6.svg)](installer/DroidDesk-Setup-v1.0.0.exe)
@@ -168,7 +168,7 @@ Explore DroidDesk's complete interface step-by-step. Each page below follows the
 - **Saved Screenshots Archive:** Chronological list of captures with timestamp, file name, and file size metadata (e.g., `Sep 29, 15:22 · 2.47 MB`) with dynamic search filter.
 - **High-Definition Preview Pane:** High-res preview showing exact image pixel dimensions (`1080 x 2400 px`), file size, and creation date.
 - **Export & Clipboard Actions:**
-  - `Copy Image`: Instantly copies the full image bitmap to your Windows clipboard — ready to paste (`Ctrl + V`) into Slack, Figma, GitHub, or Jira.
+  - `Copy Image`: Instantly copies the full image bitmap to your Windows clipboard - ready to paste (`Ctrl + V`) into Slack, Figma, GitHub, or Jira.
   - `Copy Path`: Copies the exact absolute file path (`C:\Users\...\Pictures\DroidDesk\...`).
   - `Open in Window`: Launches in default desktop photo viewer.
   - `Show in Folder`: Opens the destination folder in Windows File Explorer.
@@ -221,7 +221,7 @@ Explore DroidDesk's complete interface step-by-step. Each page below follows the
   - Total Permissions: `12`
   - High-Risk / Sensitive: `3` (Flagged in red alerts)
   - Normal Permissions: `9`
-- **Security Assessment Flags:** Highlights sensitive permissions (e.g. `HIGH RISK: Read Shared Storage — android.permission.READ_EXTERNAL_STORAGE`) with human-readable explanations of privacy and security risks.
+- **Security Assessment Flags:** Highlights sensitive permissions (e.g. `HIGH RISK: Read Shared Storage - android.permission.READ_EXTERNAL_STORAGE`) with human-readable explanations of privacy and security risks.
 - **Filters & One-Click Copy:** Fast filtering by risk group (`All (12)`, `High-Risk (3)`, `Normal (9)`) with dedicated `Copy` buttons for each permission string.
 
 #### Demo User Instructions
@@ -279,7 +279,7 @@ Explore DroidDesk's complete interface step-by-step. Each page below follows the
 
 #### Demo User Instructions
 1. Navigate to **Secret scanner** and click **Scan APK** (or select a local source folder).
-2. Scan runs locally and 100% offline via the pre-bundled Gitleaks engine — zero cloud telemetry or data sharing.
+2. Scan runs locally and 100% offline via the pre-bundled Gitleaks engine - zero cloud telemetry or data sharing.
 3. Click any row in the findings table to inspect the exact line of code where the credential was found.
 4. Follow the **Recommended Action** advice to lock down API keys before shipping to the Play Store.
 
@@ -374,7 +374,7 @@ Explore DroidDesk's complete interface step-by-step. Each page below follows the
 - **RAM:** Minimum 4 GB (8 GB recommended).
 - **Disk Space:** ~500 MB free space.
 - **Android SDK / ADB:** Auto-detected if Android Studio is installed. (You can also set custom paths in **Settings -> Tool Locator**).
-- **Pre-bundled Tools:** Both scrcpy and gitleaks are already packaged with the installer — **no manual tool installation required!**
+- **Pre-bundled Tools:** Both scrcpy and gitleaks are already packaged with the installer - **no manual tool installation required!**
 
 ---
 
