@@ -14,10 +14,6 @@
 | File | Version | Architecture | Size | Direct Download Link |
 | :--- | :---: | :---: | :---: | :--- |
 | **DroidDesk-Setup-v1.0.0.exe** | 1.0.0 | Windows x64 | ~217 MB | [⬇️ Download v1.0.0 Setup](installer/DroidDesk-Setup-v1.0.0.exe) |
-| **SHA256 Checksum** | - | - | - | [📄 View Checksums](installer/SHA256SUMS.txt) |
-
-> **SHA-256 Hash Verification:**  
-> ee2f11b174fb6557a9da15a20219d3c5fa8d34e7cf1f74f3f8fa3b63bb428a7
 
 ---
 
