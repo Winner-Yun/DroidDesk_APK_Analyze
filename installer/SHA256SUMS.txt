@@ -1,2 +1,3 @@
-﻿fee2f11b174fb6557a9da15a20219d3c5fa8d34e7cf1f74f3f8fa3b63bb428a7 *DroidDesk-Setup.exe
+fee2f11b174fb6557a9da15a20219d3c5fa8d34e7cf1f74f3f8fa3b63bb428a7 *DroidDesk-Setup.exe
 fee2f11b174fb6557a9da15a20219d3c5fa8d34e7cf1f74f3f8fa3b63bb428a7 *DroidDesk-Setup-v1.0.0.exe
+17089bd0daddae2707d2c0cd393c0489a847b684180ade3cb7145ff60d049ebd *DroidDesk-Setup-v1.0.1.exe

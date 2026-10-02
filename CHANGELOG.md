@@ -4,6 +4,20 @@ All notable changes to the DroidDesk application are documented in this file.
 
 ---
 
+## [1.0.1] - Android Emulator & SDK Toolchain Manager (Windows 64-bit)
+
+### 🚀 Highlights & New Features
+- **Integrated Device & Emulator Manager**: Full virtual device management alongside physical phones in one unified dashboard.
+- **Android Virtual Device (AVD) Creation Wizard**: Multi-step wizard to configure, create, and initialize Android emulators directly inside DroidDesk without opening Android Studio.
+- **Android SDK Environment & Toolchain Diagnostics**: Auto-detection, manual configuration, and real-time health checks for Android SDK Root, ADB, Emulator, and AVD Manager.
+- **Installed System Image Scanner**: Automatically detects and catalogs installed Android system images across API levels (e.g., Android API 37, Android 15 Vanilla Ice Cream API 35, Android 10 API 29).
+- **One-Click Emulator Lifecycle Controls**: Boot, restart, gracefully stop, or delete virtual devices with live boot progress tracking.
+- **Unified Testing & Screen Mirroring**: Full support for 1-click APK installation, low-latency screen mirroring, screenshot captures, and real-time logcat streaming directly on virtual emulators.
+- **Enhanced Status Bar**: Real-time health indicators expanded to track `emulator`, `avdmanager`, and `sdkmanager` status alongside existing core tools.
+- **Updated Production Installer**: Self-contained setup package `DroidDesk-Setup-v1.0.1.exe` (~218 MB).
+
+---
+
 ## [1.0.0] - Initial Release (Windows 64-bit)
 
 ### 🚀 Highlights
